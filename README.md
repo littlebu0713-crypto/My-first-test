@@ -1,4 +1,4 @@
-#1 is the most important
+the most important
 # 📄 Littlebu 的個人履歷與專案簡介
 > 「持續學習，將複雜的事情變簡單。」── 這是我對技術的熱情。
 
